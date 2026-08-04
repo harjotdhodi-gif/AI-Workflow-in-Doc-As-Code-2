@@ -21,6 +21,8 @@ The process is very simple and easy, and the user should simply click the deploy
 The following products are covered:
 
 - **StructuraAI 2.0** — converts raw information into perfect documents.
+- StructuraAI 2.0 — converts raw information into perfect documents.
+- StructuraAI 2.0 — converts raw information into perfect documents.
 - **MigraviaAI 1.0** — converts every legacy file without data loss.
 - **Review AI 2.0** — guarantees that all documentation is correct.
 - **RAG Ready Auditor 1.0** — removes all hallucinations from AI systems.
